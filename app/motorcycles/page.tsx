@@ -10,7 +10,7 @@ const motorcycles = [
     price: "$148,500",
      category: "SUPER SPORT",
     image:
-      "/images/Gemini_Generated_Image_2dj09w2dj09w2dj0-removebg-preview 1.png",
+      "/turpotic/images/Gemini_Generated_Image_2dj09w2dj09w2dj0-removebg-preview 1.png",
   },
   {
     name: "DUCATI V4",
@@ -18,34 +18,34 @@ const motorcycles = [
       "$276,000",
       category: "GRAND TOURING",
     image:
-      "/images/vecteezy_sleek-red-ducati-streetfighter-sports-motorcycle-with_55130500 1.png",
+      "/turpotic/images/vecteezy_sleek-red-ducati-streetfighter-sports-motorcycle-with_55130500 1.png",
   },
   {
     name: "BLACK EDITION",
     price: "$139,900",
     category: "ELECTRIC",
     image:
-      "/images/vecteezy_black-motorcycle-motorbike-on-white-transparent-background_44267099 1.png",
+      "/turpotic/images/vecteezy_black-motorcycle-motorbike-on-white-transparent-background_44267099 1.png",
   },
   {
     name: "SKY BLUE",
     price: "$165,500",
     category: "ELECTRIC",
-    image: "/images/motorcycle_listing_new 1.png",
+    image: "/turpotic/images/motorcycle_listing_new 1.png",
   },
   {
     name: "GOLD SPORT",
     price: "$102,500",
     category: "SUPER SPORT",
     image:
-      "/images/vecteezy_sleek-and-powerful-gold-sportbike-motorcycle_59048178 1.png",
+      "/turpotic/images/vecteezy_sleek-and-powerful-gold-sportbike-motorcycle_59048178 1.png",
   },
   {
     name: "RED DRAGON",
     price: "$104,500",
     category: "LUXURY SUV",
     image:
-      "/images/vecteezy_red-motorbike-on-transparent-background_45979852 1.png",
+      "/turpotic/images/vecteezy_red-motorbike-on-transparent-background_45979852 1.png",
   },
 ];
 
@@ -145,7 +145,7 @@ export default function MotorcyclePage() {
             </h2>
 
            <Image
-  src="/images/Gemini_Generated_Image_2dj09w2dj09w2dj0-removebg-preview 1.png"
+  src="/turpotic/images/Gemini_Generated_Image_2dj09w2dj09w2dj0-removebg-preview 1.png"
   alt="Motorcycle"
   width={400}
   height={400}

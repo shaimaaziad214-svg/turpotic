@@ -7,38 +7,38 @@ import Link from "next/link";
 const cars = [
  {
   name: "911 CARRERAS",
-  image: "/images/audi.png",
+  image: "/turpotic/images/audi.png",
   price: "$148,500",
   category: "GRAND TOURING",
 },
   {
     name: "F8 TRIBUTO",
-    image: "/images/ferrari.png",
+    image: "/turpotic/images/ferrari.png",
     price: "$276,000",
     category: "SUPER SPORT"
   },
   {
     name: "R8 E-TRONGT",
-    image: "/images/porsche.png",
+    image: "/turpotic/images/porsche.png",
     price: "$139,900",
     category: "ELECTRIC"
   },
   {
     name: "VANTAGE V8",
-    image: "/images/bmw.png",
+    image: "/turpotic/images/bmw.png",
     price: "$165,500",
     category: "LUXURY SUV"
   },
   {
     name: "CAYMAN GT4",
-    image: "/images/yellow-car.png",
+    image: "/turpotic/images/yellow-car.png",
     price: "$102,500",
     category: "LUXURY SUV"
 
   },
   {
     name: "HURACÁN ST",
-    image: "/images/white-sedan.png",
+    image: "/turpotic/images/white-sedan.png",
     price: "$104,500",
     category: "ELECTRIC"
   },
@@ -151,7 +151,7 @@ export default function CarPage() {
         {/* Floating Car */}
         <div className="absolute left-1/2 top-[110px] -translate-x-1/2 z-20 transition hover:scale-105">
           <Image
-            src="/images/top-car.png"
+            src="/turpotic/images/top-car.png"
             alt="Top Car"
             width={420}
             height={420}

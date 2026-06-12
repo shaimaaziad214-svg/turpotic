@@ -15,7 +15,7 @@ const vehicleName = "RSE-TRON GT";
 
 const vehiclePrice = "$147,420";
 
-const vehicleImage = "/images/porsche.png";
+const vehicleImage = "/turpotic/images/porsche.png";
 
 const [name, setName] = useState("");
 const [cardNumber, setCardNumber] = useState("");

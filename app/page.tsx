@@ -120,7 +120,7 @@ src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
     <Link href="/car">
   <div className="relative overflow-hidden rounded-3xl cursor-pointer hover:scale-105 transition">
       <Image
-        src="/images/vecteezy_car-on-white-background_55672594 1.png"
+        src="/turpotic/images/vecteezy_car-on-white-background_55672594 1.png"
         alt="Buy"
         width={400}
         height={500}
@@ -140,7 +140,7 @@ src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
     <Link href="/rent">
       <div className="relative overflow-hidden rounded-3xl cursor-pointer hover:scale-105 transition">
       <Image
-        src="/images/263390 1.png"
+        src="/turpotic/images/263390 1.png"
         alt="Rent"
         width={400}
         height={500}
@@ -159,7 +159,7 @@ src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
     <Link href="/motorcycles">
       <div className="relative overflow-hidden rounded-3xl cursor-pointer hover:scale-105 transition">
       <Image
-        src="/images/honda-cbr600rr-white 1.png"
+        src="/turpotic/images/honda-cbr600rr-white 1.png"
         alt="Motorcycles"
         width={400}
         height={500}
@@ -188,7 +188,7 @@ src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
 <div className="group relative col-span-2 overflow-hidden rounded-[32px] cursor-pointer">
 
   <Image
-    src="/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
+    src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
     alt="Lamborghini"
     width={800}
     height={500}
@@ -228,7 +228,7 @@ src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
 
         <Image
         
-         src="/images/motorcycle_listing_new 1.png"
+         src="/turpotic/images/motorcycle_listing_new 1.png"
           alt="Motorcycle"
             width={530}
             height={313}

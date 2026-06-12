@@ -9,19 +9,19 @@ const cars = [
   {
     name: "911 CARRERAS",
     price: "$450",
-    image: "/images/porsche.png",
+    image: "/turpotic/images/porsche.png",
     category: "SPORT",
   },
   {
     name: "F8 TRIBUTO",
     price: "$850",
-    image: "/images/ferrari.png",
+    image: "/turpotic/images/ferrari.png",
     category: "SPORT",
   },
   {
     name: "VANTAGE V8",
     price: "$750",
-    image: "/images/bmw.png",
+    image: "/turpotic/images/bmw.png",
     category: "EXECUTIVE",
   },
 ];
@@ -186,7 +186,7 @@ const filteredCars =
             />
 
             <Image
-              src="/images/pngwing.com (2) 1.png"
+              src="/turpotic/images/pngwing.com (2) 1.png"
               alt="Mercedes"
               width={650}
               height={650}

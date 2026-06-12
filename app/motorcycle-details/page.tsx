@@ -27,7 +27,7 @@ const image = searchParams.get("image");
 
           <div className="flex justify-center">
             <Image
-src={image || "/images/motorcycle.png"}
+src={image || "/turpotic/images/motorcycle.png"}
              alt={name || "Motorcycle"}
               width={500}
               height={350}

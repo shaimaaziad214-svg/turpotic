@@ -15,7 +15,7 @@ export default function Home() {
 
         {/* صورة السيارة */}
         <Image
-          src="/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
+src="/turpotic/images/alex_rainer-1_lxISUE3F4-unsplash 1.png"
           alt="Car"
           fill
           priority
